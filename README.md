@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Yyooogurt" alt="GitHub Streak" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yyooogurt" alt="GitHub Streak" /></a>
 <br>
 <a href="https://u8views.com/github/Yyooogurt">
   <img src="https://u8views.com/api/v1/github/profiles/72949874/views/day-week-month-total-count.svg">
