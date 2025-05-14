@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yyooogurt&theme=dark&hide_border=true" alt="yyooogurt's GitHub Stats" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyooogurt&theme=dark&hide_border=true" alt="yyooogurt's GitHub Stats" />
+</a>
+<a href="https://u8views.com/github/Yyooogurt">
+  <img src="https://u8views.com/api/v1/github/profiles/72949874/views/day-week-month-total-count.svg">
+</a>
