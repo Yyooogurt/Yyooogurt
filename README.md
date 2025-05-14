@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=yyooogurt" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Yyooogurt" alt="GitHub Streak" />
 </a>
 <br>
 <a href="https://u8views.com/github/Yyooogurt">
