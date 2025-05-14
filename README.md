@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyooogurt&theme=dark&hide_border=true" alt="yyooogurt's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yyooogurt" alt="GitHub Streak" />
 </a>
+<br>
 <a href="https://u8views.com/github/Yyooogurt">
   <img src="https://u8views.com/api/v1/github/profiles/72949874/views/day-week-month-total-count.svg">
 </a>
